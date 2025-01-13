@@ -2,6 +2,8 @@
 
 This project provides a **GTM Client Template** and a **GTM Tag Template** to enable advanced use cases like real-time personalization using Google Tag Manager Server-Side and Firestore.  
 
+[full article link](https://www.linkedin.com/pulse/empowering-personalization-gtm-server-side-firestore-mathias-berger-nzwxe/)
+
 ## 🚀 Features  
 
 ### Client Template  
